@@ -37,8 +37,7 @@ Use __real mode__ to drive a real robot
 The default IP of the robot controller is _192.168.127.100_ and the port is _12345_.
 
 ### Virtual Mode
-Use __dsr_emulator__ to drive a virtual robot
-Ww use docker container to activate virtal robot.
+Use __dsr_emulator__ to drive a virtual robot.
 The default IP of the virtual emulator is _127.0.0.1_ and the port is _12345_.
 
 ### Launch Parameters
